@@ -132,7 +132,7 @@ public class Library{
 
     public static void main(String[] args) {
         // Create a JFrame
-     frame = new JFrame("SHOPCART");
+     frame = new JFrame("LIBRARY");
         frame.setResizable(true);
         frame.setSize(950, 900);
        // frame.setramanujanout(null);
